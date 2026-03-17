@@ -4,6 +4,14 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="style.css">
+
+<nav style="align-items: center;">
+<a href="#sobre">Sobre</a>
+<a href="#skills">Skills</a>
+<a href="#projetos">Projetos</a>
+<a href="#contato">Contato</a>
+</nav>
+
 <title>Vitor Santos | Portfolio</title>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
@@ -12,12 +20,7 @@
 
 <body>
 
-<nav style="align-items: center;">
-<a href="#sobre">Sobre</a>
-<a href="#skills">Skills</a>
-<a href="#projetos">Projetos</a>
-<a href="#contato">Contato</a>
-</nav>
+
 
 <div class="hero">
 
