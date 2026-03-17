@@ -12,7 +12,7 @@
 
 <body>
 
-<nav>
+<nav aling "center">
 <a href="#sobre">Sobre</a>
 <a href="#skills">Skills</a>
 <a href="#projetos">Projetos</a>
