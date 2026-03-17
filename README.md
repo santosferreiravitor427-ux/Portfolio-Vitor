@@ -21,7 +21,7 @@
 
 <div class="hero">
 
-<img src="vitor.jpeg">
+<img src="https://raw.githubusercontent.com/santosferreiravitor427-ux/Portfolio-Vitor/main/vitor.jpg">
 
 <h1>Olá, eu sou <span>Vitor Santos</span></h1>
 
