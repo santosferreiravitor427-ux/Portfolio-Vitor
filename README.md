@@ -21,7 +21,7 @@
 
 <div class="hero">
 
-<img src="vitor.jpg">
+<img src="vitor.jpeg">
 
 <h1>Olá, eu sou <span>Vitor Santos</span></h1>
 
