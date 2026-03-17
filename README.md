@@ -12,7 +12,7 @@
 
 <body>
 
-<nav aling "center">
+<nav style="align-items: center;">
 <a href="#sobre">Sobre</a>
 <a href="#skills">Skills</a>
 <a href="#projetos">Projetos</a>
@@ -21,7 +21,7 @@
 
 <div class="hero">
 
-<img src="vitor.jpeg">
+<img src="img/vitor.jpeg">
 
 <h1>Olá, eu sou <span>Vitor Santos</span></h1>
 
