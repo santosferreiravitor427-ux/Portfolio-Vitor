@@ -21,11 +21,9 @@
 
 <div class="hero">
 
-<img src="https://raw.githubusercontent.com/SEU-USUARIO/Portfolio-Vitor/main/vitor.jpg">
+<img src="vitor.jpg">
 
 <h1>Olá, eu sou <span>Vitor Santos</span></h1>
-
-<p id="typing"></p>
 
 <a href="#projetos" class="btn">Ver Projetos</a>
 
