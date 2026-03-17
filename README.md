@@ -1,9 +1,16 @@
+
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+<title>Vitor Santos | Portfolio</title>
+</head>
+
+<body>
 
 <nav style="align-items: center;">
 <a href="#sobre">Sobre</a>
@@ -12,19 +19,9 @@
 <a href="#contato">Contato</a>
 </nav>
 
-<title>Vitor Santos | Portfolio</title>
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-
-</head>
-
-<body>
-
-
-
 <div class="hero">
 
-<img src="img/vitor.jpeg">
+<img src="https://raw.githubusercontent.com/SEU-USUARIO/Portfolio-Vitor/main/vitor.jpg">
 
 <h1>Olá, eu sou <span>Vitor Santos</span></h1>
 
